@@ -1,0 +1,10 @@
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.deps.json
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.json
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.pdb
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.pdb

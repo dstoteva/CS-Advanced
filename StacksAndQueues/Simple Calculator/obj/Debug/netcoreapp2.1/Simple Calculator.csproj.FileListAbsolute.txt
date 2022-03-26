@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\obj\Debug\netcoreapp2.1\Simple Calculator.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\obj\Debug\netcoreapp2.1\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\obj\Debug\netcoreapp2.1\Simple Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\obj\Debug\netcoreapp2.1\Simple Calculator.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\bin\Debug\netcoreapp2.1\Simple Calculator.deps.json
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\bin\Debug\netcoreapp2.1\Simple Calculator.runtimeconfig.json
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\bin\Debug\netcoreapp2.1\Simple Calculator.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\bin\Debug\netcoreapp2.1\Simple Calculator.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\bin\Debug\netcoreapp2.1\Simple Calculator.pdb
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\obj\Debug\netcoreapp2.1\Simple Calculator.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\Simple Calculator\obj\Debug\netcoreapp2.1\Simple Calculator.pdb

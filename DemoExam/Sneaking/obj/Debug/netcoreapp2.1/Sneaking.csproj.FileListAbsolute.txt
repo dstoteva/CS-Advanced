@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.deps.json
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.runtimeconfig.json
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.dll
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.pdb
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.dll
+D:\SoftUni\c#-advanced\DemoExam\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.pdb

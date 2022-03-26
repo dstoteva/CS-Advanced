@@ -1,0 +1,10 @@
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.deps.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.pdb
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.pdb

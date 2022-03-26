@@ -1,0 +1,16 @@
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.deps.json
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.runtimeconfig.json
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.dll
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Streams.pdb
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.dll
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\obj\Debug\netcoreapp2.1\Streams.pdb
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Resources\01. Odd Lines\Input.txt
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Resources\02. Line Numbers\Input.txt
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Resources\03. Word Count\text.txt
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Resources\03. Word Count\words.txt
+D:\SoftUni\c#-advanced\Resources\Streams\Streams\bin\Debug\netcoreapp2.1\Resources\05. Slice File\sliceMe.txt

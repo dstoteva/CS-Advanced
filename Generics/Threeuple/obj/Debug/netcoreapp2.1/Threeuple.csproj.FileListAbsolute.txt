@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.deps.json
+D:\SoftUni\c#-advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.json
+D:\SoftUni\c#-advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.dll
+D:\SoftUni\c#-advanced\Generics\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.pdb
+D:\SoftUni\c#-advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.dll
+D:\SoftUni\c#-advanced\Generics\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.pdb

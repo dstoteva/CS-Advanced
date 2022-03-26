@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

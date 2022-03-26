@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp2.1\SumMatrixElements.deps.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp2.1\SumMatrixElements.runtimeconfig.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp2.1\SumMatrixElements.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp2.1\SumMatrixElements.dll
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\bin\Debug\netcoreapp2.1\SumMatrixElements.pdb
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp2.1\SumMatrixElements.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp2.1\SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp2.1\SumMatrixElements.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp2.1\SumMatrixElements.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp2.1\SumMatrixElements.dll
+D:\SoftUni\c#-advanced\MultidimensionalArrays\SumMatrixElements\obj\Debug\netcoreapp2.1\SumMatrixElements.pdb

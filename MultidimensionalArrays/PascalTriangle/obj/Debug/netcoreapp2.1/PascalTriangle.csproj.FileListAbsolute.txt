@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.deps.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.dll
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.pdb
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.dll
+D:\SoftUni\c#-advanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.pdb

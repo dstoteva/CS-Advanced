@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb
+D:\SoftUni\c#-advanced\SetsAndDictionaries\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csprojAssemblyReference.cache

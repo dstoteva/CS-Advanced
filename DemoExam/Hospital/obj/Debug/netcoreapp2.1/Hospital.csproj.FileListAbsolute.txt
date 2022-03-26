@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\DemoExam\Hospital\bin\Debug\netcoreapp2.1\Hospital.deps.json
+D:\SoftUni\c#-advanced\DemoExam\Hospital\bin\Debug\netcoreapp2.1\Hospital.runtimeconfig.json
+D:\SoftUni\c#-advanced\DemoExam\Hospital\bin\Debug\netcoreapp2.1\Hospital.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\DemoExam\Hospital\bin\Debug\netcoreapp2.1\Hospital.dll
+D:\SoftUni\c#-advanced\DemoExam\Hospital\bin\Debug\netcoreapp2.1\Hospital.pdb
+D:\SoftUni\c#-advanced\DemoExam\Hospital\obj\Debug\netcoreapp2.1\Hospital.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\DemoExam\Hospital\obj\Debug\netcoreapp2.1\Hospital.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\DemoExam\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\DemoExam\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\DemoExam\Hospital\obj\Debug\netcoreapp2.1\Hospital.dll
+D:\SoftUni\c#-advanced\DemoExam\Hospital\obj\Debug\netcoreapp2.1\Hospital.pdb

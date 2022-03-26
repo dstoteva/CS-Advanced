@@ -1,0 +1,10 @@
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.deps.json
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.runtimeconfig.json
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\bin\Debug\netcoreapp2.1\StackSum.pdb
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\StackSum\obj\Debug\netcoreapp2.1\StackSum.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.deps.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.pdb
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.pdb

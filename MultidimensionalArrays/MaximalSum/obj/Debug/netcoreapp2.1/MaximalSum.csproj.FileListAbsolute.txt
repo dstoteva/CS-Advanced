@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.deps.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.runtimeconfig.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.dll
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.pdb
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.dll
+D:\SoftUni\c#-advanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.pdb

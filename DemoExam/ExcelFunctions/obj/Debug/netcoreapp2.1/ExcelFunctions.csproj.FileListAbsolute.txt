@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.deps.json
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.runtimeconfig.json
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.dll
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\bin\Debug\netcoreapp2.1\ExcelFunctions.pdb
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.dll
+D:\SoftUni\c#-advanced\DemoExam\ExcelFunctions\obj\Debug\netcoreapp2.1\ExcelFunctions.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.deps.json
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.json
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\bin\Debug\netcoreapp2.1\FastFood.pdb
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\FastFood\obj\Debug\netcoreapp2.1\FastFood.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.deps.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.runtimeconfig.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.pdb
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.dll
+D:\SoftUni\c#-advanced\SetsAndDictionaries\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.pdb

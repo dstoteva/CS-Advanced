@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\bin\Debug\netcoreapp2.1\GenericBoxOfSting.deps.json
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\bin\Debug\netcoreapp2.1\GenericBoxOfSting.runtimeconfig.json
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\bin\Debug\netcoreapp2.1\GenericBoxOfSting.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\bin\Debug\netcoreapp2.1\GenericBoxOfSting.dll
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\bin\Debug\netcoreapp2.1\GenericBoxOfSting.pdb
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\obj\Debug\netcoreapp2.1\GenericBoxOfSting.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\obj\Debug\netcoreapp2.1\GenericBoxOfSting.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\obj\Debug\netcoreapp2.1\GenericBoxOfSting.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\obj\Debug\netcoreapp2.1\GenericBoxOfSting.dll
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\obj\Debug\netcoreapp2.1\GenericBoxOfSting.pdb
+D:\SoftUni\c#-advanced\Generics\GenericBoxOfSting\obj\Debug\netcoreapp2.1\GenericBoxOfSting.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.deps.json
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.runtimeconfig.json
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.pdb
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.pdb

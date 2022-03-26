@@ -1,0 +1,11 @@
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.deps.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.runtimeconfig.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.dll
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.pdb
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.csprojAssemblyReference.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.dll
+D:\SoftUni\c#-advanced\MultidimensionalArrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.pdb

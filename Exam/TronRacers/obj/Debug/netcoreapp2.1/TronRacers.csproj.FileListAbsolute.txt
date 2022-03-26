@@ -1,0 +1,10 @@
+D:\SoftUni\temp\Exam\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.deps.json
+D:\SoftUni\temp\Exam\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.runtimeconfig.json
+D:\SoftUni\temp\Exam\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.runtimeconfig.dev.json
+D:\SoftUni\temp\Exam\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.dll
+D:\SoftUni\temp\Exam\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.pdb
+D:\SoftUni\temp\Exam\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.csproj.CoreCompileInputs.cache
+D:\SoftUni\temp\Exam\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.AssemblyInfoInputs.cache
+D:\SoftUni\temp\Exam\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.AssemblyInfo.cs
+D:\SoftUni\temp\Exam\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.dll
+D:\SoftUni\temp\Exam\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.pdb

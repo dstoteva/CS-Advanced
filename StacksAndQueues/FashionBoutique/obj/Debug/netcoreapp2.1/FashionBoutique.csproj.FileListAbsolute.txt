@@ -1,0 +1,10 @@
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.deps.json
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.runtimeconfig.json
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.runtimeconfig.dev.json
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\bin\Debug\netcoreapp2.1\FashionBoutique.pdb
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.csproj.CoreCompileInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.AssemblyInfoInputs.cache
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.AssemblyInfo.cs
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.dll
+D:\SoftUni\c#-advanced\StacksAndQueues\FashionBoutique\obj\Debug\netcoreapp2.1\FashionBoutique.pdb
